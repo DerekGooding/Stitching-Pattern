@@ -1,0 +1,16 @@
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\bin\Debug\Stitching Pattern.exe.config
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\bin\Debug\Stitching Pattern.exe
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\bin\Debug\Stitching Pattern.pdb
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\Stitching Pattern.csprojAssemblyReference.cache
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\MainWindow.g.cs
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\App.g.cs
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\Stitching Pattern_MarkupCompile.cache
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\Stitching Pattern_MarkupCompile.lref
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\MainWindow.baml
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\Stitching Pattern.g.resources
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\Stitching_Pattern.Properties.Resources.resources
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\Stitching Pattern.csproj.GenerateResource.cache
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\Stitching Pattern.csproj.CoreCompileInputs.cache
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\Stitching Pattern.exe
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\Stitching Pattern.pdb
+C:\Users\DGooding\source\repos\Stitching Pattern\Stitching Pattern\obj\Debug\GeneratedInternalTypeHelper.g.cs
