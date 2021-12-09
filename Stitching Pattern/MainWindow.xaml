@@ -10,9 +10,7 @@
         <local:InverseDoubleConverter x:Key="convert"/>
     </Window.Resources>
     <Grid Background="Transparent">
-        <Border HorizontalAlignment="Right" VerticalAlignment="Top" Width="200" Height="100" Background="Wheat" Opacity="0.01" CornerRadius="0,0,0,10" MouseLeftButtonDown="Border_MouseLeftButtonDown" MouseEnter="Border_MouseEnter" MouseLeave="Border_MouseLeave">
-            <Button Content="X" Width="80" Height="40" Click="Button_Click_1" FontSize="28"/>
-        </Border>
+        
         <StackPanel Visibility="Hidden">
             <Label Content="Settings" FontWeight="Bold"/>
             <StackPanel Orientation="Horizontal">
@@ -30,5 +28,12 @@
             
         </StackPanel>
         <Canvas x:Name="PrintArea"  Height="1000" Margin="-50,0,0,0"/>
+        <Border HorizontalAlignment="Right" VerticalAlignment="Top" Width="200" Height="100" Background="Wheat" Opacity="0.01" CornerRadius="0,0,0,10" 
+                MouseLeftButtonDown="Border_MouseLeftButtonDown" MouseEnter="Border_MouseEnter" MouseLeave="Border_MouseLeave" IsHitTestVisible="True">
+            <Grid>
+                <Label Content="Click and drag to move" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                <Button Content="X" Width="80" Height="40" Click="Button_Click_1" FontSize="28"/>
+            </Grid>
+        </Border>
     </Grid>
 </Window>
